@@ -1,7 +1,7 @@
-- 👋 Hi, this is @Yuan，or you can call me Max
+- 👋 Hi, this is @Yuan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Programming in Ottawa Canada.
-- 📫 How to reach me : diane01020413@gmail.com
+- 📫 How to reach me : tang0256@algonquinlive.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before I came to Canada,I was a screenwriter in China. 
 
