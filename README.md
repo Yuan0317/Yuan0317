@@ -19,8 +19,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was a ScreenWriter in China,focus on romantic stories.
 
-  ![Screenshot 2024-05-01 002122](https://github.com/Yuan0317/Yuan0317/assets/125390414/d8238330-dbc6-42a8-abe4-44e972e64706)
-
 <br>
 ### 7-days summary by wakatime
 <table>
@@ -37,6 +35,7 @@
     </td>
   </tr>
 </table>
+  ![Screenshot 2024-05-01 002122](https://github.com/Yuan0317/Yuan0317/assets/125390414/d8238330-dbc6-42a8-abe4-44e972e64706)
 
 <!---
 Yuan0317/Yuan0317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
