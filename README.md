@@ -35,7 +35,9 @@
     </td>
   </tr>
 </table>
-  ![Screenshot 2024-05-01 002122](https://github.com/Yuan0317/Yuan0317/assets/125390414/d8238330-dbc6-42a8-abe4-44e972e64706)
+
+![Screenshot 2024-05-01 002122](https://github.com/Yuan0317/Yuan0317/assets/125390414/a2eab749-72dd-4a35-810c-eee0c087f771)
+
 
 <!---
 Yuan0317/Yuan0317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
