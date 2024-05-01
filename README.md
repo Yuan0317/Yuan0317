@@ -5,11 +5,13 @@
 <a href='https://www.youtube.com/channel/UCIEgoXctMieqqMU1MBsAsIg'><img align='left' alt="youtube" src= "https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" height='18px'/>
 </a>
 
-<a href='mailto:diane01020413@gmail.com/'><img align='left' alt="gmail" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
+<a href='mailto:diane01020413@gmail.com'><img align='left' alt="gmail" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 
 <br>
 
 </br>
+#### I’m currently learning Computer Programming at Algonquin College in Ottawa,Canada.🤖. I was a ScreenWriter in China 🌐 and always open to new challenges 💻. 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Programming in Ottawa Canada.
 - 📫 How to reach me : tang0256@algonquinlive.com
