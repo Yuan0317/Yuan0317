@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>
-      <img src="ttps://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/83f98d05-b428-4d20-898c-80503e9180d8.svg" alt="langs" height="300px" />
+      <img src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/83f98d05-b428-4d20-898c-80503e9180d8.svg" alt="langs" height="300px" />
     </td>
     <td>
       <img src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/8fb36098-6050-4c35-82d2-07113246f1dd.svg" alt="editors" height="300px" />
