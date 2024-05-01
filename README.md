@@ -1,4 +1,4 @@
-# - 🌱 Hi there <img src="https://media2.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif?cid=ecf05e47zkug6tmia0tyb6lqhnznmy0fhwju0jpyhrok1zv3&rid=giphy.gif&ct=g" width="30px"> I'm Yuan !
+# - Hi there <img src="https://media2.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif?cid=ecf05e47zkug6tmia0tyb6lqhnznmy0fhwju0jpyhrok1zv3&rid=giphy.gif&ct=g" width="30px"> I'm Yuan !
 
 <a href='https://www.linkedin.com/in/yuan-tang-55ab5628b/'><img align='left' alt="linkedin" src= "https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me: tang0256@algonquinlive.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was a ScreenWriter in China,focus on romantic stories.
+
+  ![Screenshot 2024-05-01 002122](https://github.com/Yuan0317/Yuan0317/assets/125390414/d8238330-dbc6-42a8-abe4-44e972e64706)
 
 <br>
 ### 7-days summary by wakatime
