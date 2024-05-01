@@ -1,4 +1,4 @@
-# - 👋 Hi there <img src="https://media2.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif?cid=ecf05e47zkug6tmia0tyb6lqhnznmy0fhwju0jpyhrok1zv3&rid=giphy.gif&ct=g" width="30px"> I'm Yuan !
+# - 🌱 Hi there <img src="https://media2.giphy.com/media/hjntJzbrVubhEfifkp/giphy.gif?cid=ecf05e47zkug6tmia0tyb6lqhnznmy0fhwju0jpyhrok1zv3&rid=giphy.gif&ct=g" width="30px"> I'm Yuan !
 
 <a href='https://www.linkedin.com/in/yuan-tang-55ab5628b/'><img align='left' alt="linkedin" src= "https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
 
@@ -10,13 +10,24 @@
 <br>
 
 </br>
-#### I’m currently learning Computer Programming at Algonquin College in Ottawa,Canada.🤖. I was a ScreenWriter in China 🌐 and always open to new challenges 💻. 
+#### I’m currently learning Computer Programming at Algonquin College in Ottawa,Canada.🤖. I was a ScreenWriter in China 👀 and always open to new challenges 💻. 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Programming in Ottawa Canada.
-- 📫 How to reach me : tang0256@algonquinlive.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Before I came to Canada,I was a screenwriter in China. 
+<br>
+### 7-days summary by wakatime
+<table>
+  <tr>
+    <td>Language usage</td>
+    <td>Editor usage</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ttps://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/83f98d05-b428-4d20-898c-80503e9180d8.svg" alt="langs" height="300px" />
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/8fb36098-6050-4c35-82d2-07113246f1dd.svg" alt="editors" height="300px" />
+    </td>
+  </tr>
+</table>
 
 <!---
 Yuan0317/Yuan0317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
