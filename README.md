@@ -12,12 +12,12 @@
 </br>
 
 - 🔭 I’m currently learning Computer Programming at Algonquin College in Ottawa,Canada
-- 👯 I’m looking to collaborate on interesting projects!
+- 👯 I’m looking for a co-op opportunity starting from September 2024 to May 2025
 - 🤔 I’m always open to new challenges.
 - 💬 Ask me about anything.
-- 📫 How to reach me: tang0256@algonquinlive.com
+- 📫 How to reach me: tang0256@algonquinlive.com 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I was a ScreenWriter in China,focus on romantic stories.
+- ⚡ Fun fact: I was a ScreenWriter in China,focus on super drama romantic stories，haha~ 
 
 <br>
 ### 7-days summary by wakatime
