@@ -1,6 +1,6 @@
 # Hi, I'm Yuan 👋
 
-Former screenwriter → programmer → AI explorer → mom.
+Former screenwriter → programmer  → mom.
 
 Currently, I'm:
 - 👩‍👧 Raising my daughter
@@ -12,7 +12,6 @@ Currently, I'm:
 I love turning curiosity into experiments and experiments into projects.
 
 ### Interests
-- Artificial Intelligence
 - Programming
 - Language Learning
 - Personal Knowledge Management
