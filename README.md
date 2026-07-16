@@ -17,21 +17,7 @@
 - ⚡ Fun fact: I was a ScreenWriter in China,focus on super drama romantic stories，haha~ 
 
 <br>
-### 7-days summary by wakatime
-<table>
-  <tr>
-    <td>Language usage</td>
-    <td>Editor usage</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/83f98d05-b428-4d20-898c-80503e9180d8.svg" alt="langs" height="300px" />
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/8fb36098-6050-4c35-82d2-07113246f1dd.svg" alt="editors" height="300px" />
-    </td>
-  </tr>
-</table>
+
 
 ![Screenshot 2024-05-01 002424](https://github.com/Yuan0317/Yuan0317/assets/125390414/d0fecce0-0cae-4b14-9b9e-f0775656e9d0)
 
