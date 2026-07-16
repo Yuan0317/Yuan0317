@@ -2,10 +2,6 @@
 
 Former screenwriter → programmer → AI explorer → mom.
 
-I'm fascinated by one question:
-
-**How can AI help us live better lives?**
-
 Currently, I'm:
 - 👩‍👧 Raising my daughter
 - 💻 Learning software development
@@ -23,8 +19,5 @@ I love turning curiosity into experiments and experiments into projects.
 - Storytelling
 - Productivity Systems
 - Parenting
-
-### Current Mission
-Use AI to redesign my life, one problem at a time.
 
 📫 Contact: tang0256@algonquinlive.com
